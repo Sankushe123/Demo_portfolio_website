@@ -1,0 +1,324 @@
+</section>
+  
+        <div class="skill">
+            <div class="skill-top">
+                <div class="skill-top-box">
+                    <span>Skills I Have</span>
+                    <h2>My Skills</h2>
+                </div>   
+            </div>
+            <div class="skill-main">
+                <div class="main-left">
+                    <div class="main-box">
+                        <h2>FrontEnd</h2>
+                        <div class="item-container">
+                            <div class="fend-left">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>HTML</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>CSS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Javascript</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="fend-right">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>c \ c++</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Python</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Docker</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>AWS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-left">
+                    <div class="main-box">
+                        <h2>FrontEnd</h2>
+                        <div class="item-container">
+                            <div class="fend-left">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>HTML</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>CSS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Javascript</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="fend-right">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>c \ c++</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Python</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Docker</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>AWS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-left">
+                    <div class="main-box">
+                        <h2>FrontEnd</h2>
+                        <div class="item-container">
+                            <div class="fend-left">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>HTML</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>CSS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Javascript</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="fend-right">
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>c \ c++</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Python</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>Docker</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                                <div class="item dot">
+                                    <div class="d1">
+                                        <img src="assets/pngegg (4).png" alt="" >
+                                    </div>
+                                    <div class="d2">
+                                        <h3>AWS</h3>
+                                        <span>Medium</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    .skill {
+        width: 100%;
+    }
+    .skill .skill-top{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        
+    }
+    .skill .skill-top .skill-top-box span{
+        color: var(--sm-text);
+        font-size: 1.8vh;
+        font-weight: 700;
+    }
+    .skill .skill-top .skill-top-box h2{
+        font-size: 3vh;
+        color: var(--li-blue);
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+    .skill .skill-main {
+        
+        display: flex;
+        width: 100%;
+        margin-top: 8%;
+    }
+    .skill .skill-main .main-left{
+        background-color: #323274fd;
+        width: 28%;
+        margin-left: 4%;
+        border-radius: 10px;
+        
+    }
+    .skill .skill-main .main-right{
+        background-color:#323274fd;
+        border-radius: 10px;
+        width: 37.5%;
+        
+    }
+    .skill .skill-main .main-box{ 
+        border-radius: 10px;
+       
+        height: 45vh;
+    }
+    .skill .skill-main .main-box h2{
+        text-align: center;
+        padding-top: 2%;
+        color: var(--li-blue);
+        font-size: 19px;
+        letter-spacing: 1px;
+    }
+    .skill .skill-main .main-box .item{
+        width: 50%;
+    }
+    .skill .skill-main .main-box .item-container{
+        width: 100%;
+        display: flex;
+        margin-top: 5%;
+    }
+    .skill .skill-main .main-box .item-container .fend-left{
+        width: 37.5%;
+        
+       
+    }
+    .skill .skill-main .main-box .item-container .dot{
+        display: flex;
+        margin: 5px;
+        padding: 5px;
+    }
+    .skill .skill-main .main-box .item-container .dot .d1 img{
+        width: 13px;
+        margin-right: 5px;
+    }
+    .skill .skill-main .main-box .item-container .fend-right{
+        width: 37.5%;
+    }
+    .skill .skill-main .main-box .item h3{
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .skill .skill-main .main-box .item span{
+        color:var(--sm-text);
+        font-size: 9px;
+        font-weight: 400;
+    }
+    
+    

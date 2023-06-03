@@ -1,0 +1,40 @@
+header .nav #myBtn{
+    display:block;
+    position: fixed;
+    bottom:10%;
+    left:50%;
+    transform: translate(-50%,50%);
+    justify-content:center;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    width: 200px;
+    cursor: pointer;
+    padding: 5px;
+    text-align:center;
+    border-radius: 4px;
+}
+section{
+    min-height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+<div class="nav">
+            <div id="myBtn">
+                <a href="#"><ion-icon name="home"></ion-icon></a>
+                <a href="#"><ion-icon name="school"></ion-icon></a>
+                <a href="#"><ion-icon name="construct"></ion-icon></a>
+                <a href="#"><ion-icon name="laptop"></ion-icon></a>
+                <a href="#"><ion-icon name="person"></ion-icon></a>
+            </div>
+        </div>
